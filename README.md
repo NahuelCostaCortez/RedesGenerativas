@@ -6,12 +6,13 @@ Material relativo a la asignatura de [Temas Avanzados de Ciencia e Ingeniería d
 Cada sesión de prácticas se corresponde con un Notebook que está en la carpeta correspondiente en este mismo repositorio. Debes ir leyendo y completando el notebook, puesto que hay celdas de código en las que se ha eliminado una parte y se ha sustituido por un comentario que comienza con #TODO, en el que se especifica qué se espera que haga el código que debes implementar.
 
 ## Alternativas de Software
-Para ejecutar los modelos que veremos durante el desarrollo de la asignatura tenéis las siguientes opciones. No están ordenadas de acuerdo a ningún criterio, aunque ⚠️**a día de hoy recomendaría utilizar Lightning AI**⚠️.
+Para ejecutar los modelos que veremos durante el desarrollo de la asignatura tenéis las siguientes opciones. No están ordenadas de acuerdo a ningún criterio, aunque a día de hoy ⚠️**recomendaría utilizar Lightning AI**⚠️.
 
 ### Lightning AI - Studios
 De los creadores de Pytorch. Ofrece una plataforma unificada donde se pueden crear "estudios". Los estudios son entornos de python aislados con VSCode accesibles tanto desde la propia página como por ssh.
   
-  ![image](https://github.com/user-attachments/assets/83cdeedb-8c55-4d85-bf62-70df51b5556d)
+  ![imagen](https://github.com/user-attachments/assets/07371699-16cd-4831-8ded-93c40548b983)
+
 
   👍🏻 Ventajas:
   
@@ -24,6 +25,11 @@ De los creadores de Pytorch. Ofrece una plataforma unificada donde se pueden cre
   -  Computación y almacenamiento limitado
 
   ⚠️Es aconsejable crear un estudio por cada práctica porque se van a necesitar diferentes versiones de paquetes⚠️
+
+  Tu cuenta de lightning se debería ver tal que así:
+  
+  ![imagen](https://github.com/user-attachments/assets/8e694ab5-be12-4ad8-bb34-d97c4b42c244)
+
 
 ---
 
