@@ -2,9 +2,11 @@
 
 Material relativo a la asignatura de [Temas Avanzados de Ciencia e Ingeniería de Datos](https://www.uniovi.es/en/estudia/grados/ingenieria/datos/-/fof/asignatura/GCINGD01-4-008)
 
+## Prácticas
+Cada sesión de prácticas se corresponde con un Notebook que está en la carpeta correspondiente en este mismo repositorio. Debes ir leyendo y completando el notebook, puesto que hay celdas de código en las que se ha eliminado una parte y se ha sustituido por un comentario que comienza con #TODO, en el que se especifica qué se espera que haga el código que debes implementar.
 
 ## Alternativas de Software
-Para ejecutar los modelos que veremos durante el desarrollo de la asignatura tenéis las siguientes opciones. No están ordenadas de acuerdo a ningún criterio, aunque ⚠️ **a día de hoy recomendaría utilizar Lightning AI** ⚠️.
+Para ejecutar los modelos que veremos durante el desarrollo de la asignatura tenéis las siguientes opciones. No están ordenadas de acuerdo a ningún criterio, aunque ⚠️**a día de hoy recomendaría utilizar Lightning AI**⚠️.
 
 ### Lightning AI - Studios
 De los creadores de Pytorch. Ofrece una plataforma unificada donde se pueden crear "estudios". Los estudios son entornos de python aislados con VSCode accesibles tanto desde la propia página como por ssh.
@@ -20,6 +22,8 @@ De los creadores de Pytorch. Ofrece una plataforma unificada donde se pueden cre
   👎🏻 Desventajas:
 
   -  Computación y almacenamiento limitado
+
+  ⚠️Es aconsejable crear un estudio por cada práctica porque se van a necesitar diferentes versiones de paquetes⚠️
 
 ---
 
