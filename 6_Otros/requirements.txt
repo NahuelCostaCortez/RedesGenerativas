@@ -1,0 +1,11 @@
+tf-keras
+transformers
+transformers[sentencepiece]
+diffusers[torch]
+accelerate 
+scipy 
+safetensors
+matplotlib
+datasets
+evaluate
+gradio
