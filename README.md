@@ -78,6 +78,14 @@ Este sistema dispone de varias colas (particiones en la nomenclatura de Slurm) a
  
 Los usuarios se conectan por ssh al nodo de login para realizar todas las operaciones. Desde aquí envian sus trabajos a los nodos de computación mediante un sistema de colas llamado Slurm y pueden cargar los ficheros de datos que necesiten y extraer los ficheros de resultados.
 
+  Para entrar:
+  -  Desde la terminal: ssh login-hpcinformatica.edv.uniovi.es
+  -  Desde VSCode con la extensión "Remote-SSH": Darle al "+" e introducir "ssh login-hpcinformatica.edv.uniovi.es"
+
+      <img width="298" alt="image" src="https://github.com/user-attachments/assets/d3199c52-bbc4-46a1-997b-0889f5676575">
+
+  El usuario es vuestro UO.
+
 
   En la primera conexión se debe ejecutar lo siguiente para poder utilizar conda:
 
